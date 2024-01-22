@@ -3,7 +3,7 @@ pragma solidity ^0.8.9;
 
 // import "hardhat/console.sol";
 
-contract RahulKumarWallet {
+contract subratKumarWalletAbi {
     
     address payable public ContractOwner;
     uint256 public secretBalance;
